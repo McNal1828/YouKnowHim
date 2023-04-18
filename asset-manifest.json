@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/YouKnowHim/static/css/main.fef9642a.css",
-    "main.js": "/YouKnowHim/static/js/main.ffaaa03f.js",
+    "main.js": "/YouKnowHim/static/js/main.ddd636a5.js",
     "index.html": "/YouKnowHim/index.html",
     "main.fef9642a.css.map": "/YouKnowHim/static/css/main.fef9642a.css.map",
-    "main.ffaaa03f.js.map": "/YouKnowHim/static/js/main.ffaaa03f.js.map"
+    "main.ddd636a5.js.map": "/YouKnowHim/static/js/main.ddd636a5.js.map"
   },
   "entrypoints": [
     "static/css/main.fef9642a.css",
-    "static/js/main.ffaaa03f.js"
+    "static/js/main.ddd636a5.js"
   ]
 }
